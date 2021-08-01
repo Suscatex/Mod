@@ -1,0 +1,36 @@
+{
+  "group": "alexcoolmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_leaves"
+    },
+    "1": {
+      "item": "minecraft:furnace"
+    },
+    "2": {
+      "item": "minecraft:slime_block"
+    },
+    "3": {
+      "item": "minecraft:magenta_bed"
+    },
+    "5": {
+      "item": "minecraft:magenta_bed"
+    },
+    "6": {
+      "item": "minecraft:diamond_block"
+    },
+    "8": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "alexcoolmod:alex_armour_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "alexcoolmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:obsidian"
+    },
+    "1": {
+      "item": "minecraft:coal_block"
+    },
+    "2": {
+      "item": "alexcoolmod:alex_sword"
+    }
+  },
+  "result": {
+    "item": "alexcoolmod:livid_dagger",
+    "count": 1
+  }
+}

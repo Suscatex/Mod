@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "alexcoolmod:items/alex_armour_helmet_layer_1"
+  }
+}

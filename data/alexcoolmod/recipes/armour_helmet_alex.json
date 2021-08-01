@@ -1,0 +1,29 @@
+{
+  "group": "alexcoolmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "1": {
+      "item": "minecraft:lapis_block"
+    },
+    "2": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "3": {
+      "item": "minecraft:diamond_block"
+    },
+    "5": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "alexcoolmod:alex_armour_helmet",
+    "count": 1
+  }
+}

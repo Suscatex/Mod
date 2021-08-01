@@ -1,0 +1,26 @@
+{
+  "group": "alexcoolmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald_block"
+    },
+    "2": {
+      "item": "minecraft:diamond_block"
+    },
+    "3": {
+      "item": "minecraft:diamond_block"
+    },
+    "5": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "item": "alexcoolmod:alex_armour_boots",
+    "count": 1
+  }
+}
